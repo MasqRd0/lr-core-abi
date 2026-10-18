@@ -8,5 +8,4 @@ long r14_val;
 long r15_val;
 long rip_val;
 long rsp_val;
-int value;
 } context_t;
